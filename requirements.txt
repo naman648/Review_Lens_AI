@@ -4,3 +4,4 @@ langchain
 google-search-results
 uvicorn
 dotenv
+serpapi
