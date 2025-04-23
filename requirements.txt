@@ -1,0 +1,6 @@
+fastapi
+requests
+langchain
+google-search-results
+uvicorn
+dotenv
